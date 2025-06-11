@@ -1,0 +1,16 @@
+{
+  "name": "CrashOut Vet",
+  "symbol": "CRASHVET",
+  "address": "2imtQ4dwyT5DfXHaVujJRthRec6BEU4q741mCnh1pump",
+  "decimals": 9,
+  "chainId": 101,
+  "logoURI": "https://iiqzcwnn.manus.space/assets/logo.png",
+  "tags": ["meme", "veteran", "utility"],
+  "extensions": {
+    "website": "https://iiqzcwnn.manus.space",
+    "twitter": "https://x.com/Crashoutvet",
+    "telegram": "https://t.me/CrashOutVet",
+    "github": "https://github.com/crashoutvet",
+    "whitepaper": "https://github.com/crashoutvet/crashvet/raw/main/docs/CrashVet_Whitepaper_V3.1_Cleaned_Final.pdf"
+  }
+}
